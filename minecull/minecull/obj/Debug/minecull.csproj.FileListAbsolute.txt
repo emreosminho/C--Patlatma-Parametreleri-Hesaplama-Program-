@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\minecull\minecull\bin\Debug\minecull.exe.config
+C:\Users\Lenovo\source\repos\minecull\minecull\bin\Debug\minecull.exe
+C:\Users\Lenovo\source\repos\minecull\minecull\bin\Debug\minecull.pdb
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.exe
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.pdb
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.Form1.resources
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.Form3.resources
